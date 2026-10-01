@@ -1,5 +1,5 @@
 # Preparo
-## modo de preparo 
+## Modo de preparo do tacaca 
 
 -cozinhar separadamente o tucupi, o jambu, o camarão e a goma, montando o prato quente na cuia ao final
 - tucupi: 1 litro
